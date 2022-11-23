@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amos Kyalo</h1>
+<h1 align="start">Hi 👋, I'm Amos Kyalo</h1>
 
 <img height ="400px" width="100%" object-fit="cover" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
-<h3 align="center">About me:</h3>
+<h3 align="start">About me:</h3>
 <p>I am a self-taught FrontEnd developer who is passionate about making opne source more accessible, creating technoloy to elevate people, and building communities. I am currently buillding a comminty where we build build open source projects. You can check the community <a href="https://savannahsilica.netlify.app/">here</a> </p>
 
 <p align="left"> <a href="https://twitter.com/_amos_kyalo" target="blank"><img src="https://img.shields.io/twitter/follow/_amos_kyalo?logo=twitter&style=for-the-badge" alt="_amos_kyalo" /></a> </p>
