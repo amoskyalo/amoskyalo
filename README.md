@@ -1,6 +1,5 @@
 <h1 align="start">Hi 👋, I'm Amos Kyalo</h1>
 
-<img height ="400px" width="100%" object-fit="cover" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
 <h3 align="start">About me:</h3>
 <p>
   With a passion for crafting intuitive user experiences, I have spent the last 4 years channeling my creativity and technical prowess into building visually compelling and functionally seamless software applications. My role is not just about writing code; it's about ensuring every pixel is in its right place and every interaction feels natural.
